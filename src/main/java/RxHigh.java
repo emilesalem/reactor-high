@@ -15,6 +15,7 @@ public class RxHigh {
                 .subscribe(principal);
 
         while (!principal.isHappy()) {
+
         }
     }
 }

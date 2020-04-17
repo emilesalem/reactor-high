@@ -2,22 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c8435b2-014d-4b7a-84b9-9817ab7074de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_projectreactor_reactor_core_3_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/reactor.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/reactor.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Kids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/School.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/RxHigh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RxHigh.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
