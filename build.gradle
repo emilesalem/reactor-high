@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "io.projectreactor:reactor-core:3.3.2.RELEASE"
+    testImplementation 'junit:junit:4.12' 
+}
+
+mainClassName = 'RxHigh' 
