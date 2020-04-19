@@ -15,6 +15,12 @@ public class School {
         this.kids = kids;
     }
 
+    /**
+     * notice we subscribe to the bell here as well;
+     * the bell will ring in the subscriber's thread, which is a thread managed by the Schedulers.parallel() instance.
+     * this is implicit due to the use of the .delayElement operator
+     * @return strings emitting Flux, each string value describing how many kids per grades have arrived after the bell;
+     */
     public Flux<String> grades() {
         return kids
                 .takeUntilOther(s -> bell().subscribe(s))

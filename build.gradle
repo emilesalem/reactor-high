@@ -8,12 +8,12 @@ repositories {
 }
 
 dependencies {
-    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.21'
-    compile group: 'org.slf4j', name: 'jcl-over-slf4j', version: '1.7.21'
-    compile group: 'ch.qos.logback', name: 'logback-classic', version: '1.1.7'
-    compile group: 'ch.qos.logback', name: 'logback-core', version: '1.1.7'
-    compile group: 'ch.qos.logback', name: 'logback-access', version: '1.1.7'
-    compile "org.codehaus.groovy:groovy:1.8.9"
+    implementation group: 'org.slf4j', name: 'slf4j-api', version: '1.7.21'
+    implementation group: 'org.slf4j', name: 'jcl-over-slf4j', version: '1.7.21'
+    implementation group: 'ch.qos.logback', name: 'logback-classic', version: '1.1.7'
+    implementation group: 'ch.qos.logback', name: 'logback-core', version: '1.1.7'
+    implementation group: 'ch.qos.logback', name: 'logback-access', version: '1.1.7'
+    implementation "org.codehaus.groovy:groovy:1.8.9"
     implementation "io.projectreactor:reactor-core:3.3.2.RELEASE"
     testImplementation 'junit:junit:4.12' 
 }

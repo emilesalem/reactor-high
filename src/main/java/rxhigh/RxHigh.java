@@ -15,6 +15,11 @@ public class RxHigh {
 
         School school = new School(new Kids());
 
+        // notice we subscribe to the bell in more than one context;
+        // this is to show a Publisher will be executed for every subscriber
+        // on the thread where each subscriber is executed;
+        // the .toStream operator is part of Reactor's blocking API.
+        // it lets the main thread wait for the Flux to complete.
         Flux.merge(
                 school.bell(),
                 school.grades()
