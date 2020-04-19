@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c8435b2-014d-4b7a-84b9-9817ab7074de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/RxHigh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RxHigh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rxhigh/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rxhigh/RxHigh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxhigh/RxHigh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rxhigh/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxhigh/School.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,10 +86,26 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="699" y="251" width="512" height="612" key="#Auto_Import/0.27.1920.1053@0.27.1920.1053" timestamp="1587306048374" />
-    <state x="768" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1587309196051">
+    <state x="768" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1587313747705">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="768" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1587309196051" />
+    <state x="768" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1587313747705" />
+    <state x="713" y="444" width="484" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587314393092">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="713" y="444" width="484" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1053@0.27.1920.1053" timestamp="1587314393092" />
+    <state x="743" y="297" width="424" height="520" key="FileChooserDialogImpl" timestamp="1587315363565">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="297" width="424" height="520" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1587315363565" />
+    <state x="187" y="121" width="1536" height="879" key="MergeDialog" timestamp="1587311852163">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="187" y="121" width="1536" height="879" key="MergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1587311852163" />
+    <state x="841" y="421" width="238" height="271" key="MultipleFileMergeDialog" timestamp="1587311852168">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="841" y="421" width="238" height="271" key="MultipleFileMergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1587311852168" />
     <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1587304782235">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
