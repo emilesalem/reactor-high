@@ -1,4 +1,4 @@
-package rxhigh;
+package reactorhigh;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
@@ -38,7 +38,7 @@ public class School {
     public Mono<String> bell() {
         return Mono.just("rrrrRRRRRING")
                 .delayElement(Duration.ofSeconds(SCHOOL_START_TIME))
-                .doOnNext(x -> RxHigh.logger.debug(x));
+                .doOnNext(x -> ReactorHigh.logger.debug(x));
     }
 
     static private class Grade {

@@ -1,14 +1,14 @@
-package rxhigh;
+package reactorhigh;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import reactor.core.publisher.Flux;
 
-public class RxHigh {
+public class ReactorHigh {
     protected static Logger logger;
 
     static {
-        logger = LoggerFactory.getLogger(RxHigh.class.getName());
+        logger = LoggerFactory.getLogger(ReactorHigh.class.getName());
     }
 
     public static void main(String[] args) {
