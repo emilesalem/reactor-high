@@ -13,6 +13,6 @@ but the school bell rings after 3 seconds.
 
 Problem: tell us how many kids per grade have arrived in time.
 
-### How to runreactorhigh
+### How to run
 ```
 $gradle run
